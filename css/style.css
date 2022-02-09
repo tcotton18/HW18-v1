@@ -41,19 +41,14 @@ html,body {
     font-size: 18px;
 }
 
-.primaryContainer{
-    padding: 25px;
-    padding-bottom: 20px;
+.about-content-section {
+    margin: 2px;
+
 }
 
-
-.bio{
-    float:left;
-    width: 100%;
-    max-width: 1250px;
-    padding: 30px;
-    background: gray;
-    border: 1px solid black;
+.container {
+    max-width: 900px;
+    margin: 0 auto;
 }
 
 img{
