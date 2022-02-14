@@ -43,12 +43,31 @@ html,body {
 
 .about-content-section {
     margin: 2px;
-
+    padding: 20px;
 }
 
-.container {
-    max-width: 900px;
-    margin: 0 auto;
+.myWork {
+    padding: 20px;
+}
+.workGrid {
+    display: flex;
+    column-gap: 20px;
+}
+
+.myWork1, .myWork2, .myWork3 {
+    width: 33%;
+    padding: 20px;
+    margin: 20px;
+}
+
+.skillsGrid {
+    display: flex;
+}
+
+.mySkills1, .mySkills2, .mySkills3, .mySkills4 {
+    width: 25%;
+    padding: 20px;
+    margin: 20px;
 }
 
 img{
